@@ -1,0 +1,25 @@
+body {
+    background-image: url('stars2.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    margin: 2; 
+    height: 100vh; 
+}
+p {
+    line-height: 0.2; 
+    color: #821eaa
+
+}
+li{
+    color:#821eaa
+}
+
+.pipi {
+    text-align: center;  
+}
+
+.deseinhio {
+    width: 748px;  
+    height: auto;  
+}
